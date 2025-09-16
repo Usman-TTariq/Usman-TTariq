@@ -5,7 +5,7 @@
 ### 🚀 Skills & Technologies
 - **Frontend:** React.js, Next.js, JavaScript, TypeScript
 - **Backend:** Node.js, Express
-- **Databases & Cloud:** MongoDB, MySQL, PostgreSQL
+- **Databases:** MongoDB, MySQL, PostgreSQL
 - **Others:** Github, REST APIs
 
 <p align="left">
